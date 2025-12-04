@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "memory": "cpp",
+        "xstring": "cpp",
+        "system_error": "cpp",
+        "optional": "cpp"
+    }
+}
